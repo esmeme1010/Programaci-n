@@ -50,5 +50,5 @@ $\color{green}{\textsf{el programa cuenta cuantos domingos cayeron en primer dí
 Cantidad de domingos que cayeron en primero del mes: **171**
 
 ## Autor
-- $\color{blue}{\textsf{Esmeralda Yazmin Mora Franco}}$
-- $\color{orange}{\textsf{Rubén Omar Jiménez Muñoz}}$
+- $\color{green}{\textsf{Esmeralda Yazmin Mora Franco}}$
+- $\color{red}{\textsf{Rubén Omar Jiménez Muñoz}}$
