@@ -1,4 +1,4 @@
-# ¿CUANTOS DOMINGOS CAYERON EN 1ER DIA DEL MES EN EL SIGLO XX?
+# ¿CUÁNTOS DOMINGOS CAYERON EN 1ER DIA DEL MES EN EL SIGLO XX?
 $\color{green}{\textsf{el programa cuenta cuantos domingos cayeron en primer día de mes durante el siglo XX }}$
 
 ## Variables
