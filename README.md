@@ -17,7 +17,7 @@ $\color{green}{\textsf{el programa cuenta cuantos domingos cayeron en primer dí
 4. Avanza `dias_semana` con el residuo de dividir entre 7.
 
 ## Ejecución
-    py.py   > [!guardamos con nombre diferente el mismo código]
+    Domingos_primeros_del_mes.py   > [!guardamos con nombre diferente el mismo código]
     cos.py
 
     #0 = lunes, 1 = martes, 2 = miercoles, 3 = jueves, 4 = viernes, 5 = sabado, 6 = domingo
